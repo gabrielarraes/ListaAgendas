@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Lista_agendas.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Lista_agendas.dir/objects.a @CMakeFiles\Lista_agendas.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Lista_agendas.dir/objects.a -Wl,--no-whole-archive -o Lista_agendas.exe -Wl,--out-implib,libLista_agendas.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Lista_agendas.dir\linklibs.rsp

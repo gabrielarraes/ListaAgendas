@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Gabriel/CLionProjects/Lista_agendas/list.h
+
+C:/Users/Gabriel/CLionProjects/Lista_agendas/list_functions.c
+list.h
+C:/Users/Gabriel/CLionProjects/Lista_agendas/list.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+C:/Users/Gabriel/CLionProjects/Lista_agendas/main.c
+stdio.h
+-
+stdlib.h
+-
+list.h
+C:/Users/Gabriel/CLionProjects/Lista_agendas/list.h
+
